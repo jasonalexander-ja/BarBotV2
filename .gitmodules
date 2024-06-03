@@ -1,0 +1,6 @@
+[submodule "BarBotCollective"]
+	path = BarBotCollective
+	url = https://github.com/jasonalexander-ja/BarBotCollective.git
+[submodule "BarBotControl"]
+	path = BarBotControl
+	url = https://github.com/jasonalexander-ja/BarBotControl.git
